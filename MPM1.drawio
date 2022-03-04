@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-03-04T14:25:59.875Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.51 Safari/537.36" etag="QkHF2VrkkJWCPdA5AGed" version="16.6.4" type="github">
+<mxfile host="app.diagrams.net" modified="2022-03-04T14:40:15.051Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.51 Safari/537.36" etag="yz2bnMEzvw5oY0X76ba9" version="16.6.4" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
-    <mxGraphModel dx="3389" dy="1754" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="988" dy="512" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
@@ -105,6 +105,9 @@
         <mxCell id="KGTTk-ImKD-ywLQ9llr4-72" value="View Controller n" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=default;fontFamily=Helvetica;fontSize=12;fontColor=default;" vertex="1" parent="KGTTk-ImKD-ywLQ9llr4-74">
           <mxGeometry x="49" y="61" width="105" height="45" as="geometry" />
         </mxCell>
+        <mxCell id="KGTTk-ImKD-ywLQ9llr4-117" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1200px-React-icon.svg.png;" vertex="1" parent="KGTTk-ImKD-ywLQ9llr4-74">
+          <mxGeometry x="100" y="47.92" width="26.47" height="23" as="geometry" />
+        </mxCell>
         <mxCell id="KGTTk-ImKD-ywLQ9llr4-60" value="" style="swimlane;startSize=0;labelBackgroundColor=default;fontFamily=Helvetica;fontSize=12;fontColor=default;strokeColor=default;fillColor=default;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="680" y="730" width="240" height="290" as="geometry" />
         </mxCell>
@@ -123,6 +126,9 @@
         <mxCell id="KGTTk-ImKD-ywLQ9llr4-78" value="Activity n" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=default;fontFamily=Helvetica;fontSize=12;fontColor=default;" vertex="1" parent="KGTTk-ImKD-ywLQ9llr4-75">
           <mxGeometry x="49" y="61" width="105" height="45" as="geometry" />
         </mxCell>
+        <mxCell id="KGTTk-ImKD-ywLQ9llr4-119" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1200px-React-icon.svg.png;" vertex="1" parent="KGTTk-ImKD-ywLQ9llr4-75">
+          <mxGeometry x="99.56999999999996" y="47.99999999999994" width="26.47" height="23" as="geometry" />
+        </mxCell>
         <mxCell id="KGTTk-ImKD-ywLQ9llr4-88" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fontFamily=Helvetica;fontSize=12;fontColor=default;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="KGTTk-ImKD-ywLQ9llr4-80" target="KGTTk-ImKD-ywLQ9llr4-59">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
@@ -133,10 +139,46 @@
           <mxGeometry x="530" y="910" width="100" height="86.92" as="geometry" />
         </mxCell>
         <mxCell id="KGTTk-ImKD-ywLQ9llr4-92" value="" style="swimlane;startSize=0;labelBackgroundColor=default;fontFamily=Helvetica;fontSize=12;fontColor=default;strokeColor=default;fillColor=default;fontStyle=0" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="1170" y="240" width="240" height="400" as="geometry" />
+          <mxGeometry x="1170" y="238" width="242" height="322" as="geometry" />
         </mxCell>
         <mxCell id="KGTTk-ImKD-ywLQ9llr4-107" value="React Native app" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1200px-React-icon.svg.png;" vertex="1" parent="KGTTk-ImKD-ywLQ9llr4-92">
           <mxGeometry x="72" y="15.5" width="100" height="86.92" as="geometry" />
+        </mxCell>
+        <mxCell id="KGTTk-ImKD-ywLQ9llr4-114" value="" style="shape=crossbar;whiteSpace=wrap;html=1;rounded=1;direction=south;labelBackgroundColor=default;fontFamily=Helvetica;fontSize=12;fontColor=default;strokeColor=default;fillColor=default;" vertex="1" parent="KGTTk-ImKD-ywLQ9llr4-92">
+          <mxGeometry x="112" y="162" width="20" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="KGTTk-ImKD-ywLQ9llr4-123" value="old &lt;br&gt;iOS part" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=default;fontFamily=Helvetica;fontSize=12;fontColor=default;strokeColor=default;fillColor=default;" vertex="1" parent="KGTTk-ImKD-ywLQ9llr4-92">
+          <mxGeometry x="20" y="232" width="78" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="KGTTk-ImKD-ywLQ9llr4-126" value="old &lt;br&gt;android part" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=default;fontFamily=Helvetica;fontSize=12;fontColor=default;strokeColor=default;fillColor=default;" vertex="1" parent="KGTTk-ImKD-ywLQ9llr4-92">
+          <mxGeometry x="140" y="232" width="78" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="KGTTk-ImKD-ywLQ9llr4-127" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontFamily=Helvetica;fontSize=12;fontColor=default;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="KGTTk-ImKD-ywLQ9llr4-120" target="KGTTk-ImKD-ywLQ9llr4-123">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KGTTk-ImKD-ywLQ9llr4-120" value="old iOS&lt;br&gt;app" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=default;fontFamily=Helvetica;fontSize=12;fontColor=default;strokeColor=default;fillColor=default;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="1170" y="180" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="KGTTk-ImKD-ywLQ9llr4-128" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontFamily=Helvetica;fontSize=12;fontColor=default;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="KGTTk-ImKD-ywLQ9llr4-122" target="KGTTk-ImKD-ywLQ9llr4-126">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KGTTk-ImKD-ywLQ9llr4-122" value="old android&lt;br&gt;app" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=default;fontFamily=Helvetica;fontSize=12;fontColor=default;strokeColor=default;fillColor=default;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="1330" y="180" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="KGTTk-ImKD-ywLQ9llr4-129" value="" style="swimlane;startSize=0;labelBackgroundColor=default;fontFamily=Helvetica;fontSize=12;fontColor=default;strokeColor=default;fillColor=default;fontStyle=0" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="1160" y="585" width="242" height="205" as="geometry" />
+        </mxCell>
+        <mxCell id="KGTTk-ImKD-ywLQ9llr4-130" value="React Native app" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1200px-React-icon.svg.png;" vertex="1" parent="KGTTk-ImKD-ywLQ9llr4-129">
+          <mxGeometry x="72" y="15.5" width="100" height="86.92" as="geometry" />
+        </mxCell>
+        <mxCell id="KGTTk-ImKD-ywLQ9llr4-131" value="" style="shape=crossbar;whiteSpace=wrap;html=1;rounded=1;direction=south;labelBackgroundColor=default;fontFamily=Helvetica;fontSize=12;fontColor=default;strokeColor=default;fillColor=default;" vertex="1" parent="KGTTk-ImKD-ywLQ9llr4-129">
+          <mxGeometry x="112" y="135" width="20" height="58" as="geometry" />
+        </mxCell>
+        <mxCell id="KGTTk-ImKD-ywLQ9llr4-132" value="some&lt;br&gt;iOS&amp;nbsp;third party BL" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=default;fontFamily=Helvetica;fontSize=12;fontColor=default;strokeColor=default;fillColor=default;" vertex="1" parent="KGTTk-ImKD-ywLQ9llr4-129">
+          <mxGeometry x="20" y="146" width="78" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="KGTTk-ImKD-ywLQ9llr4-140" value="some&lt;br&gt;android third party BL" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=default;fontFamily=Helvetica;fontSize=12;fontColor=default;strokeColor=default;fillColor=default;" vertex="1" parent="KGTTk-ImKD-ywLQ9llr4-129">
+          <mxGeometry x="150" y="146" width="78" height="45" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
